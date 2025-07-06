@@ -1,0 +1,51 @@
+{
+  "modes": [
+    {
+      "name": "Rookie Striker",
+      "description": "Learn the basics of headers, volleys, and simple shots",
+      "difficulty": "Easy",
+      "highScore": 1000
+    },
+    {
+      "name": "Speed Header",
+      "description": "Test your reaction time with rapid-fire aerial challenges",
+      "difficulty": "Medium",
+      "highScore": 2500
+    },
+    {
+      "name": "Skill Master",
+      "description": "Chain advanced moves like bicycle kicks and diving headers",
+      "difficulty": "Hard",
+      "highScore": 5000
+    },
+    {
+      "name": "Pro Striker",
+      "description": "Create your own signature moves and earn style points",
+      "difficulty": "Expert",
+      "highScore": 10000
+    }
+  ],
+  "combos": [
+    {
+      "player": "HeaderMaster99",
+      "combo": "Bicycle Kick + Diving Header + Perfect Volley",
+      "score": 15000,
+      "date": "2024-03-14",
+      "image": "assets/combo-1.jpg"
+    },
+    {
+      "player": "GoalKing",
+      "combo": "Aerial Domination (10 consecutive headers)",
+      "score": 12500,
+      "date": "2024-03-13",
+      "image": "assets/combo-2.jpg"
+    },
+    {
+      "player": "VolleyQueen",
+      "combo": "Scissor Kick + Backflip Shot",
+      "score": 11000,
+      "date": "2024-03-12",
+      "image": "assets/combo-3.jpg"
+    }
+  ]
+}

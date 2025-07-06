@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Get in touch with our support team for any questions or assistance with Head Soccer Pro: Head Ball 2 at defeatly.com"
+    />
+    <title>Contact Support - defeatly.com</title>
+    <link rel="icon" href="assets/favicon.ico" />
+    <link rel="stylesheet" href="styles/bounce-core.css" />
+    <link rel="stylesheet" href="styles/bounce-rhythm.css" />
+  </head>
+  <body class="juggle-arena">
+    <div id="header-zone"></div>
+
+    <main class="bounce-playground">
+      <section class="contact-court">
+        <h1 class="mega-toss">Contact Support</h1>
+
+        <div class="contact-zone">
+          <!-- Contact Info -->
+          <div class="info-pitch">
+            <div class="contact-details" id="contactInfo"></div>
+
+            <!-- Map -->
+            <div class="map-zone">
+              <iframe
+                src="https://www.google.com/maps?q=222+Margaret+Street,+Brisbane+City+QLD+4000,+Australia&hl=en&output=embed"
+                width="100%"
+                height="400"
+                style="border: 0"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              >
+              </iframe>
+            </div>
+          </div>
+
+          <!-- Contact Form -->
+          <form class="support-form" id="supportForm">
+            <div class="form-volley">
+              <div class="input-pitch">
+                <label for="name" class="form-toss">Name</label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  class="form-field"
+                  required
+                />
+              </div>
+
+              <div class="input-pitch">
+                <label for="email" class="form-toss">Email</label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  class="form-field"
+                  required
+                />
+              </div>
+
+              <div class="input-pitch">
+                <label for="phone" class="form-toss">Phone</label>
+                <input
+                  type="tel"
+                  id="phone"
+                  name="phone"
+                  class="form-field"
+                  required
+                />
+              </div>
+
+              <div class="input-pitch">
+                <label for="message" class="form-toss">Message</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  class="form-field message-zone"
+                  required
+                ></textarea>
+              </div>
+
+              <button type="submit" class="submit-toss">Send Message</button>
+            </div>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <!-- Modal Dialog -->
+    <div class="modal-overlay" id="submitModal">
+      <div class="modal-content">
+        <div class="modal-status">
+          <div class="status-spinner">
+            <div class="spinner-ring"></div>
+          </div>
+          <div class="status-message">Sending your message...</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer-zone"></div>
+
+    <script src="scripts/bounce-core.js"></script>
+    <script src="scripts/bounce-contact.js"></script>
+  </body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "moves": [
+    {
+      "name": "Basic Header",
+      "description": "Tap to perform a standard header. Time your taps to maintain ball control and possession!",
+      "timing": "500ms between taps",
+      "difficulty": "Beginner"
+    },
+    {
+      "name": "Power Header",
+      "description": "Double tap for a stronger shot. Perfect for long passes or surprising the goalkeeper!",
+      "timing": "200ms between double taps",
+      "difficulty": "Intermediate"
+    },
+    {
+      "name": "Curve Shot",
+      "description": "Swipe while shooting to bend the ball's trajectory. Essential for scoring around defenders!",
+      "timing": "Hold 300ms, slide direction",
+      "difficulty": "Advanced"
+    },
+    {
+      "name": "Skill Chain",
+      "description": "Combine headers, volleys, and special moves to create unstoppable attacks!",
+      "timing": "Varies by combo",
+      "difficulty": "Expert"
+    },
+    {
+      "name": "Aerial Control",
+      "description": "Time your jumps perfectly to maintain possession in the air. Extend your control for bonus points!",
+      "timing": "800ms hold",
+      "difficulty": "Advanced"
+    },
+    {
+      "name": "Super Strike",
+      "description": "Charge up for a powerful shot that blasts past defenders. The ultimate scoring move!",
+      "timing": "1000ms charge",
+      "difficulty": "Expert"
+    }
+  ]
+}

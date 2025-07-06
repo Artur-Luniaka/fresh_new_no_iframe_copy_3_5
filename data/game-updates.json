@@ -1,0 +1,26 @@
+{
+  "updates": [
+    {
+      "title": "Enhanced Header Physics Update",
+      "date": "2024-03-15",
+      "content": "We've completely upgraded our ball physics system! Experience more realistic ball trajectories, improved header accuracy, and smoother aerial duels. The new mechanics reward perfect timing on jumps and add visual indicators for special power shots.",
+      "image": "assets/ball-1.jpg"
+    },
+    {
+      "title": "Custom Celebration Moves",
+      "date": "2024-03-01",
+      "content": "Introducing custom goal celebrations! Create your own victory animations and taunt opponents after scoring. The new editor lets you design unique dance moves and showboating sequences to humiliate your rivals.",
+      "image": "assets/ball-2.jpg"
+    }
+  ],
+  "features": [
+    {
+      "title": "Enhanced Header Physics Update",
+      "content": "Experience more realistic ball trajectories and improved header accuracy"
+    },
+    {
+      "title": "Custom Celebration Moves",
+      "content": "Create your own victory animations and taunt opponents after scoring"
+    }
+  ]
+}

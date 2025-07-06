@@ -1,0 +1,36 @@
+{
+  "rewards": [
+    {
+      "title": "Elite Striker Badge",
+      "description": "Score 50 perfect headers to earn the prestigious Elite Striker status",
+      "current": 15,
+      "total": 50,
+      "points": 1000,
+      "progress": 30
+    },
+    {
+      "title": "Speed Scorer",
+      "description": "Score 100 rapid-fire goals to unlock exclusive speed challenges",
+      "current": 45,
+      "total": 100,
+      "points": 2000,
+      "progress": 45
+    },
+    {
+      "title": "Skill Champion",
+      "description": "Master all special shots and become the ultimate skill champion",
+      "current": 8,
+      "total": 12,
+      "points": 3000,
+      "progress": 66
+    },
+    {
+      "title": "Legendary Player",
+      "description": "Reach level 50 to unlock legendary jerseys and goal effects",
+      "current": 28,
+      "total": 50,
+      "points": 5000,
+      "progress": 56
+    }
+  ]
+}

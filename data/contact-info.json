@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "email": "support@defeatly.com",
+    "phone": "+61 2 7734 5511",
+    "address": {
+      "street": "222 Margaret Street",
+      "city": "Brisbane City",
+      "state": "QLD",
+      "postal": "4000",
+      "country": "Australia"
+    },
+    "hours": {
+      "weekdays": "9:00 AM - 6:00 PM AEST"
+    }
+  }
+}
